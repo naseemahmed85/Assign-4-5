@@ -35,8 +35,8 @@ export default function Aiincybersecurity(){
             <p className="text7">
             AI is widely used to detect fraudulent activities, particularly in sectors such as finance and e-commerce.
 
-            Real-Time Fraud Detection: AI algorithms can monitor financial transactions, login attempts, and user behaviors in real-time to detect potential fraud. If a transaction appears abnormal based on the user's typical behavior, AI systems can flag it for further review or automatically block the transaction.
-            Behavioral Biometrics: AI can analyze subtle user behaviors (such as typing speed, mouse movements, and browsing habits) to detect potential fraud or identity theft. If a user's behavior deviates from their normal patterns, the system can identify it as suspicious.
+            Real-Time Fraud Detection: AI algorithms can monitor financial transactions, login attempts, and user behaviors in real-time to detect potential fraud. If a transaction appears abnormal based on the users typical behavior, AI systems can flag it for further review or automatically block the transaction.
+            Behavioral Biometrics: AI can analyze subtle user behaviors (such as typing speed, mouse movements, and browsing habits) to detect potential fraud or identity theft. If a users behavior deviates from their normal patterns, the system can identify it as suspicious.
             </p>
 
             <div className="back-to-home">

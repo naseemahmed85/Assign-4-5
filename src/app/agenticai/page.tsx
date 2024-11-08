@@ -8,7 +8,7 @@ export default function Agenticai(){
             <img src="../image/Agentic AI.Png" alt="Open source ai" />
             </div>
             <p className="text1">
-            Agentic AI refers to artificial intelligence systems that possess a level of autonomy, enabling them to make decisions and perform actions without constant human intervention. These systems operate as "agents," meaning they have the capacity to assess their environment, interpret data, and execute tasks based on predefined objectives or learned behaviors.
+            Agentic AI refers to artificial intelligence systems that possess a level of autonomy, enabling them to make decisions and perform actions without constant human intervention. These systems operate as agents, meaning they have the capacity to assess their environment, interpret data, and execute tasks based on predefined objectives or learned behaviors.
             </p>
 
             <h2 className="text2"> Key Characteristics of Agentic AI </h2>
@@ -27,7 +27,7 @@ export default function Agenticai(){
 
             <h4 className="text6">Ethical and Security Concerns</h4>
             <p className="text7">
-            The independence of Agentic AI raises concerns about accountability, control, and transparency. As these systems make autonomous decisions, it becomes important to address who is responsible when mistakes occur or when an AI system's actions lead to unforeseen consequences. Additionally, ensuring that these AI agents remain secure from external tampering is crucial in preventing misuse.
+            The independence of Agentic AI raises concerns about accountability, control, and transparency. As these systems make autonomous decisions, it becomes important to address who is responsible when mistakes occur or when an AI systems actions lead to unforeseen consequences. Additionally, ensuring that these AI agents remain secure from external tampering is crucial in preventing misuse.
 
             In summary, Agentic AI represents a more advanced form of AI that is empowered to act autonomously, making it useful for a wide range of applications where continuous human involvement would be inefficient or impractical. However, its development comes with important ethical and technical challenges that must be carefully managed.
             </p>

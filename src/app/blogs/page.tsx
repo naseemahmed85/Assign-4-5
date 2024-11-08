@@ -1,6 +1,6 @@
 import Link from "next/link"
 
-export default function(){
+export default function Blogs(){
     return(
         <div className="Parent1">
         <h1 className="text">Artificial Intelligence</h1>
